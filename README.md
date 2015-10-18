@@ -16,5 +16,6 @@ If you want see the code, just open shortcutLikeLinux.ahk in notepad.
 For learn how to create a little and usefulls scripts with AutoHotKey(AHK), please visit http://www.autohotkey.com/
 
 Credits:
-electropulse
-http://superuser.com/users/476845/electropulse
+[electropulse]
+
+[electropulse]: <http://superuser.com/users/476845/electropulse>
